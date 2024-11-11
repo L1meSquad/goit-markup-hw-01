@@ -1,6 +1,3 @@
-**Read in other languages: [Russian](README.md), [Ukrainian](README.ua.md),
-[English](README.en.md), [Spanish](README.es.md), [Polish](README.pl.md).**
-
 # Домашнє завдання
 
 - Створи репозиторій `goit-markup-hw-01`.
